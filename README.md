@@ -33,7 +33,7 @@
 <h3>🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <a href="https://cloudflare.com" target="_blank"><img src="https://developers.cloudflare.com/favicon.ico" alt="cloudflare" width="40" height="40"/></a>
+  <a href="https://cloudflare.com" target="_blank"><img src="https://nocaptchaai.com/_build/assets/cloudflare-DcvvGBTd.png" alt="cloudflare" width="40" height="40"/></a>
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
