@@ -33,11 +33,11 @@
 <h3>🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <a href="https://cloudflare.com" target="_blank"><img src="https://seeklogo.com/images/C/cloudflare-logo-A6BA766CCF-seeklogo.com.png" alt="cloudflare" width="40" height="40"/></a>
+  <a href="https://cloudflare.com" target="_blank"><img src="https://developers.cloudflare.com/favicon.ico" alt="cloudflare" width="40" height="40"/></a>
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://supabase.com/docs/assets/supabase-logo-icon.svg" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/logo-icon.svg" alt="supabase" width="40" height="40"/></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
